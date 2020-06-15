@@ -8,6 +8,10 @@
 
 ---
 
+因为用了几年了。。原作者已经放弃更新，就只能自己来维护了
+2020.05.15
+
+
 # DEPRECATED
 
 PhotoPicker is deprecated.
